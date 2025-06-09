@@ -46,8 +46,8 @@ pgsql
 Copy
 Edit
 stopwatch-app/
-├── index.html
-├── style.css
-└── script.js
+├── task2.html
+├── task2.css
+└── task2.js
 📝 License
 This project is open-source and free to use under the MIT License.
