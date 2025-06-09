@@ -34,7 +34,7 @@ bash
 Copy
 Edit
 git clone https://github.com/your-username/stopwatch-app.git
-Navigate to the project folder and open index.html in your browser.
+Navigate to the project folder and open task2.html in your browser.
 
 Or use Live Server in VS Code for real-time preview.
 
